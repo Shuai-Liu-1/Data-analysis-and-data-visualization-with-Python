@@ -1,4 +1,4 @@
-# Data analysis and data visualization with Python
+# Data analytics and data visualization with Python
 Workshop demo with Python.
 
 Also can see and run the code in Binder
